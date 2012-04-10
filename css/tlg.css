@@ -94,6 +94,13 @@ footer {
   min-height: 608px;
 }
 
+#header_image {
+    background-image: url("../img/header_prod_1.jpg");
+    background-repeat: no-repeat;
+    min-height: 192px;
+    position: relative;
+}
+
 #above_div {
   position: absolute;
   position:absolute;
