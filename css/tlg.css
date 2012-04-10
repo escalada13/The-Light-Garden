@@ -103,7 +103,8 @@ footer {
 .hero-unit {
   background: transparent !important;
   color: white;
-  margin-top: 350px;
+  /*margin-top: 350px;*/
+  margin-top:295px;
   padding: 0;
 }
 
